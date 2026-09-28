@@ -1,0 +1,8 @@
+env/
+node_modules/
+frontend/node_modules/
+.git/
+__pycache__/
+*.pyc
+db.sqlite3
+.env

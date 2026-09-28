@@ -1,0 +1,28 @@
+# Environment variables and secrets
+.env
+.env.*
+
+# Python virtual environment
+env/
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Database
+db.sqlite3
+
+# Node dependencies
+node_modules/
+frontend/node_modules/
+
+# Build output
+frontend/dist/
+
+# Git
+.git/
+
+# Editor and OS files
+.vscode/
+.DS_Store
